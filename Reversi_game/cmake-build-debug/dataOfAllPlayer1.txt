@@ -1,0 +1,10 @@
+Hello....1
+
+username:ddd223f password:yarden123 name:yarden points:0
+
+username:uhjm password:ghth name:fff points:0
+
+username:jkj password:jkj\ name:fvf points:0
+
+username:hxxvf password:hj name:nhh points:0
+
